@@ -2,6 +2,8 @@
 # JHendry
 # 2015/10/20
 
+# Now I am editing this file inside of GitHub.
+
 ### Conceptually:
 # Imagine a system with X states which are unobservable.
 # There is an "initial" probablity to be in a given state.
