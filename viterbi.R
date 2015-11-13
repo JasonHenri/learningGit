@@ -2,7 +2,14 @@
 # JHendry
 # 2015/10/20
 
+<<<<<<< Updated upstream
 # Now I am editing this file inside of GitHub.
+=======
+
+
+>>>>>>> Stashed changes
+
+# I've made a change to the file to learn git.
 
 ### Conceptually:
 # Imagine a system with X states which are unobservable.
